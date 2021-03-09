@@ -1,0 +1,48 @@
+body {
+    background-color: #a9dcf6;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+}
+
+img {
+    max-width: 100%;
+    max-height: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    top: 30%;
+}
+
+.big {
+    height: 300px;
+}
+
+button {
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+}
+
+.txtbkg {
+    background-color: rgba(46, 49, 49, 0.6);
+    max-width: 80%;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dialogue {
+    color: white;
+    font-size:20px;
+}
+
+.space {
+    margin-top: 10%;
+}
+
+.space2 {
+    margin-top: 5%;
+}
+
+.hide {
+    display: none;
+}
